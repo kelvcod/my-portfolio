@@ -10,7 +10,7 @@ function Home() {
     <div className="home">
       <div className="about">
         <img className="me" src={pic5} alt="me" />
-        <h2> Hello Welcome to Kelv's Hub</h2>
+        <h2> Welcome to Kelv's Hub</h2>
         <div className="prompt">
           <p>
             A Junior Software Developer with a Passion for Learning and
@@ -45,19 +45,19 @@ function Home() {
           <li className="item">
             <h2> Front-End</h2>
             <span>
-              ReactJS, HTML, CSS, React Native, NPM, Ionic, BootStrap,
-              MaterialUI, Materialized CSS, SASS
+              ReactJS, NextJS, HTML, CSS, React Native, NPM, BootStrap,
+              MaterialUI, Materialized CSS, SASS, Tailwind CSS
             </span>
           </li>
           <li className="item">
             <h2>Back-End</h2>
             <span>
-              NodeJS, ExpressJS, GraphQL, ApolloServer, MySQL, MongoDB, SQL
+              NodeJS, ExpressJS, GraphQL, MySQL, MongoDB, SQL, FireBase
             </span>
           </li>
           <li className="item">
             <h2>Languages</h2>
-            <span>JavaScript, TypeScript, Go</span>
+            <span>JavaScript, TypeScript, </span>
           </li>
         </ol>
       </div>
