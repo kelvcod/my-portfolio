@@ -21,6 +21,7 @@ export const ProjectList = [
   {
     name: "Twitter Clone",
     image: Pic3,
-    skills: "React,Node.js,SASS",
+    skills: "NextJS ,Tailwind CSS, FireBase V9 SDK ",
+    url: "https://twitterclonekelv.netlify.app/",
   },
 ];
