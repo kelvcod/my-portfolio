@@ -1,6 +1,7 @@
 import Pic1 from "../assets/Pic1.jpeg";
 import Pic2 from "../assets/Pic2.png";
 import Pic3 from "../assets/Pic3.jpg";
+import Pic11 from "../assets/Pic11.jpg";
 
 export const ProjectList = [
   {
@@ -16,6 +17,13 @@ export const ProjectList = [
     image: Pic2,
     skills: "React, Hacker News API, Semantic-UI (React)",
     url: "https://codesandbox.io/s/magical-heyrovsky-witm1?file=/src/my_components/NavBar.js",
+  },
+
+  {
+    name: "To Do Lists",
+    image: Pic11,
+    skills: "React ,Bootstrap, FontAwesome  ",
+    url: "https://todolists-kelv.netlify.app/",
   },
 
   {
