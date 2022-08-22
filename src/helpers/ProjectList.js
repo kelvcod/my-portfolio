@@ -30,8 +30,9 @@ export const ProjectList = [
   {
     name: "Weather App",
     image: Pic60,
-    skills: "React , CSS, OpenWeatherMap API ",
-    url: "https://myweatherapp-kelv.netlify.app",
+    skills:
+      "React , JavaScript,Tailwind CSS, react-toastify, OpenWeatherMap API ",
+    url: "https://weather-forecast-kelv.netlify.app/",
   },
 
   {
